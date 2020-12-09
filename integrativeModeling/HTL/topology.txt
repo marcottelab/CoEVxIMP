@@ -1,0 +1,20 @@
+|topology_dictionary|
+|molecule_name | color | fasta_fn | fasta_id | pdb_fn | chain | residue_range | pdb_offset | bead_size | em_residues_per_gaussian | rigid_body | super_rigid_body | chain_of_super_rigid_bodies | 
+|P0AGA2  |green |5mg3.fasta|P0AGA2|new5mg3_modeledEGDCyajC.pdb|Y|1,458   |0     |10|20|1 |1||
+|P0AG96  |red   |5mg3.fasta|P0AG96|new5mg3_modeledEGDCyajC.pdb|E|1,64    |0     |10|20|2 |2||
+|P0AG96  |red   |5mg3.fasta|P0AG96|new5mg3_modeledEGDCyajC.pdb|E|65,88   |0     |10|20|3 |2||
+|P0AG96  |red   |5mg3.fasta|P0AG96|new5mg3_modeledEGDCyajC.pdb|E|89,END  |0     |10|20|4 |2||
+|P0AG90  |blue  |5mg3.fasta|P0AG90|new5mg3_modeledEGDCyajC.pdb|D|277,428 |0     |10|20|5 |3||
+|P0AG90  |blue  |5mg3.fasta|P0AG90|new5mg3_modeledEGDCyajC.pdb|D|1,276   |0     |10|20|6 |3||
+|P0AG90  |blue  |5mg3.fasta|P0AG90|new5mg3_modeledEGDCyajC.pdb|D|429,END |0     |10|20|6 |3|| 
+|P0AG93  |yellow|5mg3.fasta|P0AG93|new5mg3_modeledEGDCyajC.pdb|F|1,323   |0     |10|20|7 |4||
+|P25714  |purple|5mg3.fasta|P25714|new5mg3_modeledEGDCyajC.pdb|C|37,329  |0     |10|20|8 |5||
+|P25714  |purple|5mg3.fasta|P25714|new5mg3_modeledEGDCyajC.pdb|C|1,36    |0     |10|20|9 |5||
+|P25714  |purple|5mg3.fasta|P25714|new5mg3_modeledEGDCyajC.pdb|C|330,END |0     |10|20|9 |5||
+|P0AG99  |black |5mg3.fasta|P0AG99|new5mg3_modeledEGDCyajC.pdb|G|1,22    |0     |10|20|10|6||
+|P0AG99  |black |5mg3.fasta|P0AG99|BEADS                      |G|23,49   |0     |10|20|11|6||
+|P0AG99  |black |5mg3.fasta|P0AG99|new5mg3_modeledEGDCyajC.pdb|G|50,77   |0     |10|20|10|6||
+|P0AG99  |black |5mg3.fasta|P0AG99|BEADS                      |G|78,END  |0     |10|20|12|6||
+|P0ADZ7  |orange|5mg3.fasta|P0ADZ7|new5mg3_modeledEGDCyajC.pdb|A|1,END   |0     |10|20|13|7||
+
+

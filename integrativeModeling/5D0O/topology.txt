@@ -1,0 +1,8 @@
+|topology_dictionary|
+|molecule_name | color | fasta_fn | fasta_id | pdb_fn | chain | residue_range | pdb_offset | bead_size | em_residues_per_gaussian | rigid_body | super_rigid_body | chain_of_super_rigid_bodies | 
+|P0A940  |green |5d0o.fasta|P0A940|5d0o.pdb|A|24,806  |0     |10|20|1 |1||
+|P77774  |red   |5d0o.fasta|P77774|5d0o.pdb|B|22,392  |0     |10|20|2 |2||
+|P0A903  |blue  |5d0o.fasta|P0A903|5d0o.pdb|C|25,189  |0     |10|20|3 |3||
+|P0AC02  |yellow|5d0o.fasta|P0AC02|5d0o.pdb|D|26,243  |0     |10|20|4 |4||
+|P0A937  |purple|5d0o.fasta|P0A937|5d0o.pdb|E|24,110  |0     |10|20|5 |5||
+
