@@ -1,8 +1,6 @@
 The directories and scripts included were used to calculate evolutionary couplings between subunits of protein complexes and used the intermolecular coupling results to build integrative models.
 
-########################################################
 ################# EVCouplings ##########################
-########################################################
 
 A basic configuration file is provided. This can be used
 in combination with the batchComplexCoupling.py script to
@@ -28,9 +26,7 @@ directories.
 The CoEv_analysis.ipynb notebook can be used for selection of
 appropriate intermolecular couplings for integrative modeling.
 
-########################################################
 ############## Integrative Modeling ####################
-########################################################
 
 All input files and modeling scripts are provided in their
 prospective directories. Analysis scripts and exhaustive sampling
